@@ -13,6 +13,6 @@
   },
   "dependencies": {
     "axios": "^0.17.1",
-    "yargs": "^11.0.0"
+    "yargs": "^13.1.0"
   }
 }
